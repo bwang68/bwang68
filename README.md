@@ -6,7 +6,7 @@
 <h3 align="center">A Data Science Pursuer and Student</h3>
 
 
-- 🔭 I’m currently working on <p>/#129323;</p>
+- 🔭 I’m currently working on 🤫
 
 - 🌱 I’m currently learning **R, python, java**
 
